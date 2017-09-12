@@ -1,0 +1,125 @@
+2017-06-30 08:24:21 serial = 27182818284
+2017-06-30 08:24:21 email = anon
+2017-06-30 08:24:21 RTG version = RTG Core Non-Commercial 3.7.1 / Core 3f0a42f (2016-10-18)
+2017-06-30 08:24:21 awt.toolkit = sun.awt.X11.XToolkit
+2017-06-30 08:24:21 file.encoding = UTF-8
+2017-06-30 08:24:21 file.encoding.pkg = sun.io
+2017-06-30 08:24:21 file.separator = /
+2017-06-30 08:24:21 host.name = pc178107.med.cornell.edu
+2017-06-30 08:24:21 java.awt.graphicsenv = sun.awt.X11GraphicsEnvironment
+2017-06-30 08:24:21 java.awt.printerjob = sun.print.PSPrinterJob
+2017-06-30 08:24:21 java.class.path = /home/campagne/rtg-core-non-commercial-3.7.1/RTG.jar
+2017-06-30 08:24:21 java.class.version = 52.0
+2017-06-30 08:24:21 java.endorsed.dirs = /home/campagne/rtg-core-non-commercial-3.7.1/jre/lib/endorsed
+2017-06-30 08:24:21 java.ext.dirs = /home/campagne/rtg-core-non-commercial-3.7.1/jre/lib/ext:/usr/java/packages/lib/ext
+2017-06-30 08:24:21 java.home = /home/campagne/rtg-core-non-commercial-3.7.1/jre
+2017-06-30 08:24:21 java.io.tmpdir = /tmp
+2017-06-30 08:24:21 java.library.path = /home/campagne/rtg-core-non-commercial-3.7.1
+2017-06-30 08:24:21 java.runtime.name = Java(TM) SE Runtime Environment
+2017-06-30 08:24:21 java.runtime.version = 1.8.0_92-b14
+2017-06-30 08:24:21 java.specification.name = Java Platform API Specification
+2017-06-30 08:24:21 java.specification.vendor = Oracle Corporation
+2017-06-30 08:24:21 java.specification.version = 1.8
+2017-06-30 08:24:21 java.vendor = Oracle Corporation
+2017-06-30 08:24:21 java.vendor.url = http://java.oracle.com/
+2017-06-30 08:24:21 java.vendor.url.bug = http://bugreport.sun.com/bugreport/
+2017-06-30 08:24:21 java.version = 1.8.0_92
+2017-06-30 08:24:21 java.vm.info = mixed mode
+2017-06-30 08:24:21 java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+2017-06-30 08:24:21 java.vm.specification.name = Java Virtual Machine Specification
+2017-06-30 08:24:21 java.vm.specification.vendor = Oracle Corporation
+2017-06-30 08:24:21 java.vm.specification.version = 1.8
+2017-06-30 08:24:21 java.vm.vendor = Oracle Corporation
+2017-06-30 08:24:21 java.vm.version = 25.92-b14
+2017-06-30 08:24:21 lang.version = 1.8.0_92
+2017-06-30 08:24:21 line.separator = 
+
+2017-06-30 08:24:21 models.dir = /home/campagne/rtg-core-non-commercial-3.7.1/models
+2017-06-30 08:24:21 os.arch = amd64
+2017-06-30 08:24:21 os.freememory = 17990545408
+2017-06-30 08:24:21 os.name = Linux
+2017-06-30 08:24:21 os.totalmemory = 134901854208
+2017-06-30 08:24:21 os.version = 3.10.0-327.36.3.el7.x86_64
+2017-06-30 08:24:21 path.separator = :
+2017-06-30 08:24:21 processor.arch = amd64
+2017-06-30 08:24:21 processor.count = 12
+2017-06-30 08:24:21 references.dir = /home/campagne/rtg-core-non-commercial-3.7.1/references
+2017-06-30 08:24:21 runtime.freememory = 1979941472
+2017-06-30 08:24:21 runtime.maxmemory = 107922587648
+2017-06-30 08:24:21 runtime.totalMemory = 2022178816
+2017-06-30 08:24:21 sun.arch.data.model = 64
+2017-06-30 08:24:21 sun.boot.class.path = /home/campagne/rtg-core-non-commercial-3.7.1/jre/lib/resources.jar:/home/campagne/rtg-core-non-commercial-3.7.1/jre/lib/rt.jar:/home/campagne/rtg-core-non-commercial-3.7.1/jre/lib/sunrsasign.jar:/home/campagne/rtg-core-non-commercial-3.7.1/jre/lib/jsse.jar:/home/campagne/rtg-core-non-commercial-3.7.1/jre/lib/jce.jar:/home/campagne/rtg-core-non-commercial-3.7.1/jre/lib/charsets.jar:/home/campagne/rtg-core-non-commercial-3.7.1/jre/lib/jfr.jar:/home/campagne/rtg-core-non-commercial-3.7.1/jre/classes
+2017-06-30 08:24:21 sun.boot.library.path = /home/campagne/rtg-core-non-commercial-3.7.1/jre/lib/amd64
+2017-06-30 08:24:21 sun.cpu.endian = little
+2017-06-30 08:24:21 sun.cpu.isalist = 
+2017-06-30 08:24:21 sun.io.unicode.encoding = UnicodeLittle
+2017-06-30 08:24:21 sun.java.command = /home/campagne/rtg-core-non-commercial-3.7.1/RTG.jar vcfeval --baseline=GOLD-confident-chr-indels.vcf.gz -c 1498773835404-bestF1-CNG-NA12878-gatk-realigned-2017-06-20-test-genotypes-sorted.vcf-indels.vcf.gz -o output-17915/indel --template=/home/campagne/data/genotypes/genomes/hs37d5_all_chr_CNG.sdf --evaluation-regions=GIAB-NA12878-confident-regions-chr.bed.gz --bed-regions=1498773835404-bestF1-CNG-NA12878-gatk-realigned-2017-06-20-test-observed-regions.bed-sorted.bed.gz --vcf-score-field=P --sort-order=descending
+2017-06-30 08:24:21 sun.java.launcher = SUN_STANDARD
+2017-06-30 08:24:21 sun.jnu.encoding = UTF-8
+2017-06-30 08:24:21 sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+2017-06-30 08:24:21 sun.os.patch.level = unknown
+2017-06-30 08:24:21 talkback = true
+2017-06-30 08:24:21 user.country = US
+2017-06-30 08:24:21 user.dir = /home/campagne/data/genotypes/jun_28
+2017-06-30 08:24:21 user.home = /home/campagne
+2017-06-30 08:24:21 user.language = en
+2017-06-30 08:24:21 user.name = campagne
+2017-06-30 08:24:21 user.timezone = America/New_York
+2017-06-30 08:24:21 vendor = Oracle Corporation
+2017-06-30 08:24:21 gzipfix.enabled = true
+2017-06-30 08:24:21 Command line arguments: rtg vcfeval --baseline=GOLD-confident-chr-indels.vcf.gz -c 1498773835404-bestF1-CNG-NA12878-gatk-realigned-2017-06-20-test-genotypes-sorted.vcf-indels.vcf.gz -o output-17915/indel --template=/home/campagne/data/genotypes/genomes/hs37d5_all_chr_CNG.sdf --evaluation-regions=GIAB-NA12878-confident-regions-chr.bed.gz --bed-regions=1498773835404-bestF1-CNG-NA12878-gatk-realigned-2017-06-20-test-observed-regions.bed-sorted.bed.gz --vcf-score-field=P --sort-order=descending
+2017-06-30 08:24:21 Run Id: e0ddb8fc-2430-481d-adfa-cc86e2aad30e
+2017-06-30 08:24:21 Referenced SDF-ID: 50c11a0d-ef42-496b-807d-b6f3760c8532 Type: DNA Sequences: 86 Max-Length: 249250621 Min-Length: 4262 Arm: UNKNOWN
+2017-06-30 08:24:24 Reference sequence chrY is used in calls but not in baseline (variants will be treated as FP).
+2017-06-30 08:24:25 Variant in calls at chr20:4837929 was skipped: GT value '0/1/2' is not haploid or diploid.
+2017-06-30 08:24:25 Variant in calls at chr20:11611135 was skipped: GT value '1/2/3' is not haploid or diploid.
+2017-06-30 08:24:25 Variant in calls at chr20:16554727 was skipped: GT value '1/2/3' is not haploid or diploid.
+2017-06-30 08:24:25 Variant in calls at chr20:19555898 was skipped: GT value '0/1/2' is not haploid or diploid.
+2017-06-30 08:24:25 Variant in calls at chr20:38796944 was skipped: GT value '0/1/2' is not haploid or diploid.
+2017-06-30 08:24:25 Variant in calls at chr20:42480557 was skipped: GT value '0/1/2' is not haploid or diploid.
+2017-06-30 08:24:25 Variant in calls at chr20:49170917 was skipped: GT value '1/2/3' is not haploid or diploid.
+2017-06-30 08:24:25 Reference chr20 baseline contains 12187 variants.
+2017-06-30 08:24:25 Reference chr20 calls contains 12780 variants.
+2017-06-30 08:24:25 Variant in calls at chr21:24400394 was skipped: GT value '0/1/2' is not haploid or diploid.
+2017-06-30 08:24:25 Variant in calls at chr21:30553231 was skipped: GT value '1/2/3' is not haploid or diploid.
+2017-06-30 08:24:25 Variant in calls at chr21:34675655 was skipped: GT value '0/1/2' is not haploid or diploid.
+2017-06-30 08:24:25 Variant in calls at chr21:37762098 was skipped: GT value '1/2/3' is not haploid or diploid.
+2017-06-30 08:24:25 Variant in calls at chr21:43060482 was skipped: GT value '1/2/3' is not haploid or diploid.
+2017-06-30 08:24:25 Variant in calls at chr21:47464060 was skipped: GT value '1/2/3' is not haploid or diploid.
+2017-06-30 08:24:25 Reference chr21 baseline contains 8336 variants.
+2017-06-30 08:24:25 Reference chr21 calls contains 8893 variants.
+2017-06-30 08:24:25 Variant in calls at chr22:17736023 was skipped: GT value '1/2/3' is not haploid or diploid.
+2017-06-30 08:24:25 Variant in calls at chr22:36102125 was skipped: GT value '0/1/2' is not haploid or diploid.
+2017-06-30 08:24:25 Variant in calls at chr22:37278333 was skipped: GT value '0/1/2' is not haploid or diploid.
+2017-06-30 08:24:25 Variant in calls at chr22:40152292 was skipped: GT value '0/1/2' is not haploid or diploid.
+2017-06-30 08:24:25 Variant in calls at chr22:41402256 was skipped: GT value '1/2/3' is not haploid or diploid.
+2017-06-30 08:24:25 Variant in calls at chr22:41402275 was skipped: GT value '0/1/2' is not haploid or diploid.
+2017-06-30 08:24:26 Reference chr22 baseline contains 7508 variants.
+2017-06-30 08:24:26 Reference chr22 calls contains 7940 variants.
+2017-06-30 08:24:26 Variant in calls at chrX:9424146 was skipped: GT value '1/2/3' is not haploid or diploid.
+2017-06-30 08:24:26 Variant in calls at chrX:32967459 was skipped: GT value '0/1/2' is not haploid or diploid.
+2017-06-30 08:24:26 Variant in calls at chrX:34519926 was skipped: GT value '1/2/3' is not haploid or diploid.
+2017-06-30 08:24:26 Variant in calls at chrX:78221019 was skipped: GT value '0/1/2' is not haploid or diploid.
+2017-06-30 08:24:26 Variant in calls at chrX:83931108 was skipped: GT value '0/1/2' is not haploid or diploid.
+2017-06-30 08:24:26 Variant in calls at chrX:95449445 was skipped: GT value '0/1/2' is not haploid or diploid.
+2017-06-30 08:24:26 Variant in calls at chrX:97050406 was skipped: GT value '1/2/3' is not haploid or diploid.
+2017-06-30 08:24:26 Variant in calls at chrX:98854696 was skipped: GT value '1/2/3' is not haploid or diploid.
+2017-06-30 08:24:26 Variant in calls at chrX:102498861 was skipped: GT value '0/1/2' is not haploid or diploid.
+2017-06-30 08:24:26 Variant in calls at chrX:106539483 was skipped: GT value '1/2/3' is not haploid or diploid.
+2017-06-30 08:24:26 Variant in calls at chrX:107284783 was skipped: GT value '1/2/3' is not haploid or diploid.
+2017-06-30 08:24:26 Variant in calls at chrX:114037246 was skipped: GT value '1/2/3' is not haploid or diploid.
+2017-06-30 08:24:26 Reference chrX baseline contains 19507 variants.
+2017-06-30 08:24:26 Reference chrX calls contains 21047 variants.
+2017-06-30 08:24:26 Reference chrY baseline contains 0 variants.
+2017-06-30 08:24:26 Reference chrY calls contains 9 variants.
+2017-06-30 08:24:27 Reference chr21 had maximum path complexity of 99 at chr21:27249918-27251109
+2017-06-30 08:24:28 Reference chr22 had maximum path complexity of 63 at chr22:18450229-18450640
+2017-06-30 08:24:28 Reference chr20 had maximum path complexity of 117 at chr20:38051753-38054108
+2017-06-30 08:24:29 Reference chrX had maximum path complexity of 117 at chrX:26825710-26832810
+2017-06-30 08:24:31 There were 31 problematic called variants skipped during loading (see vcfeval.log for details).
+2017-06-30 08:24:31 Threshold  True-pos-baseline  True-pos-call  False-pos  False-neg  Precision  Sensitivity  F-measure
+----------------------------------------------------------------------------------------------------
+    0.615              41920          41921        922       1805     0.9785       0.9587     0.9685
+     None              41970          41971       1008       1755     0.9765       0.9599     0.9681
+
+2017-06-30 08:24:31 Finished successfully in 9 s.
