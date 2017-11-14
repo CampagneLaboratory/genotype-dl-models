@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="211.66666666666666mm" version="1.1" viewBox="0 0 800 600" width="282.2222222222222mm" x="0mm" y="0mm" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip836771840">
+      <rect height="590" width="790" x="5" y="5"/>
+    </clipPath>
+    <clipPath id="clip936779776">
+      <rect height="539" width="733" x="43" y="32"/>
+    </clipPath>
+  </defs>
+  <rect height="600" style="fill:rgb(255,255,255);stroke:none;" width="800" x="0" y="0"/>
+  <g clip-path="url(#clip836771840)">
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="5" y="27">True Positives</text>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="785" y="27">%</text>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="43" x2="47" y1="570" y2="570"/>
+    <line style="fill:none;stroke:rgb(192,192,192);stroke-miterlimit:10;" x1="47" x2="775" y1="570" y2="570"/>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="36" y="573">0</text>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="43" x2="47" y1="439" y2="439"/>
+    <line style="fill:none;stroke:rgb(192,192,192);stroke-miterlimit:10;" x1="47" x2="775" y1="439" y2="439"/>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="12" y="442">50,000</text>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="43" x2="47" y1="308" y2="308"/>
+    <line style="fill:none;stroke:rgb(192,192,192);stroke-miterlimit:10;" x1="47" x2="775" y1="308" y2="308"/>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="8" y="311">100,000</text>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="43" x2="47" y1="177" y2="177"/>
+    <line style="fill:none;stroke:rgb(192,192,192);stroke-miterlimit:10;" x1="47" x2="775" y1="177" y2="177"/>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="7" y="180">150,000</text>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="43" x2="47" y1="46" y2="46"/>
+    <line style="fill:none;stroke:rgb(192,192,192);stroke-miterlimit:10;" x1="47" x2="775" y1="46" y2="46"/>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="7" y="49">200,000</text>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="775" x2="771" y1="570" y2="570"/>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="779" y="573">0</text>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="775" x2="771" y1="462" y2="462"/>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="779" y="465">20</text>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="775" x2="771" y1="354" y2="354"/>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="779" y="357">40</text>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="775" x2="771" y1="247" y2="247"/>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="779" y="250">60</text>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="775" x2="771" y1="139" y2="139"/>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="779" y="142">80</text>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="775" x2="771" y1="32" y2="32"/>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="779" y="35">100</text>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="43" x2="43" y1="570" y2="566"/>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="43" x2="43" y1="32" y2="36"/>
+    <line style="fill:none;stroke:rgb(192,192,192);stroke-miterlimit:10;" x1="43" x2="43" y1="566" y2="36"/>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="41" y="581">0</text>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="189" x2="189" y1="570" y2="566"/>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="189" x2="189" y1="32" y2="36"/>
+    <line style="fill:none;stroke:rgb(192,192,192);stroke-miterlimit:10;" x1="189" x2="189" y1="566" y2="36"/>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="184" y="581">20</text>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="335" x2="335" y1="570" y2="566"/>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="335" x2="335" y1="32" y2="36"/>
+    <line style="fill:none;stroke:rgb(192,192,192);stroke-miterlimit:10;" x1="335" x2="335" y1="566" y2="36"/>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="330" y="581">40</text>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="482" x2="482" y1="570" y2="566"/>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="482" x2="482" y1="32" y2="36"/>
+    <line style="fill:none;stroke:rgb(192,192,192);stroke-miterlimit:10;" x1="482" x2="482" y1="566" y2="36"/>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="477" y="581">60</text>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="628" x2="628" y1="570" y2="566"/>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="628" x2="628" y1="32" y2="36"/>
+    <line style="fill:none;stroke:rgb(192,192,192);stroke-miterlimit:10;" x1="628" x2="628" y1="566" y2="36"/>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="623" y="581">80</text>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="775" x2="775" y1="570" y2="566"/>
+    <line style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" x1="775" x2="775" y1="32" y2="36"/>
+    <line style="fill:none;stroke:rgb(192,192,192);stroke-miterlimit:10;" x1="775" x2="775" y1="566" y2="36"/>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="768" y="581">100</text>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="377" y="592">False Positives</text>
+    <rect height="538" style="fill:none;stroke:rgb(0,0,0);stroke-miterlimit:10;" width="732" x="43" y="32"/>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="289" y="16">SNPs, model 1510204519948 (baseline total = 205527)</text>
+  </g>
+  <g clip-path="url(#clip936779776)">
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="43" x2="43" y1="570" y2="570"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="43" x2="540" y1="570" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="540" x2="540" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="540" x2="577" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="577" x2="577" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="577" x2="592" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="592" x2="592" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="592" x2="606" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="606" x2="606" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="606" x2="613" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="613" x2="613" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="613" x2="621" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="621" x2="621" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="621" x2="628" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="628" x2="628" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="628" x2="635" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="635" x2="635" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="635" x2="643" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="643" x2="643" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="643" x2="650" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="650" x2="650" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="650" x2="657" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="657" x2="657" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="657" x2="672" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="672" x2="672" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="672" x2="679" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="679" x2="679" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="679" x2="687" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="687" x2="687" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="687" x2="694" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="694" x2="694" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="694" x2="701" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="701" x2="701" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="701" x2="709" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="709" x2="709" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="709" x2="716" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="716" x2="716" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="716" x2="723" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="723" x2="723" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="723" x2="731" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="731" x2="731" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="731" x2="738" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="738" x2="738" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="41" x2="45" y1="570" y2="570"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="43" x2="43" y1="568" y2="572"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="43" x2="43" y1="570" y2="570"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="538" x2="542" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="540" x2="540" y1="30" y2="34"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="540" x2="540" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="736" x2="740" y1="32" y2="32"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="738" x2="738" y1="30" y2="34"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="738" x2="738" y1="32" y2="32"/>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="34" y="570">1.00</text>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="527" y="32">0.999</text>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="527" y="32">0.999</text>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="527" y="32">0.999</text>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="527" y="32">0.999</text>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="527" y="32">0.999</text>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="527" y="32">0.999</text>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="527" y="32">0.999</text>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="527" y="32">0.999</text>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="527" y="32">0.999</text>
+    <text style="fill:rgb(0,0,0);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="725" y="32">0.565</text>
+  </g>
+  <g clip-path="url(#clip836771840)">
+    <text style="fill:rgb(255,64,48);stroke:none;font-family:&quot;Utopia&quot;;font-size:10px;" x="721" y="557">snp snp P</text>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="698" x2="716" y1="554" y2="554"/>
+    <line style="fill:none;stroke:rgb(255,64,48);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;" x1="707" x2="707" y1="554" y2="554"/>
+  </g>
+</svg>

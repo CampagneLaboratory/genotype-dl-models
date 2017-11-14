@@ -1,0 +1,93 @@
+2017-11-09 08:33:28 serial = 27182818284
+2017-11-09 08:33:28 email = anon
+2017-11-09 08:33:28 RTG version = RTG Core Non-Commercial 3.7.1 / Core 3f0a42f (2016-10-18)
+2017-11-09 08:33:28 awt.toolkit = sun.awt.X11.XToolkit
+2017-11-09 08:33:28 file.encoding = UTF-8
+2017-11-09 08:33:28 file.encoding.pkg = sun.io
+2017-11-09 08:33:28 file.separator = /
+2017-11-09 08:33:28 host.name = gibus.pbtech
+2017-11-09 08:33:28 java.awt.graphicsenv = sun.awt.X11GraphicsEnvironment
+2017-11-09 08:33:28 java.awt.printerjob = sun.print.PSPrinterJob
+2017-11-09 08:33:28 java.class.path = /pbtech_mounts/homesD/campagne/rtg-core-non-commercial-3.7.1/RTG.jar
+2017-11-09 08:33:28 java.class.version = 52.0
+2017-11-09 08:33:28 java.endorsed.dirs = /pbtech_mounts/homesD/campagne/rtg-core-non-commercial-3.7.1/jre/lib/endorsed
+2017-11-09 08:33:28 java.ext.dirs = /pbtech_mounts/homesD/campagne/rtg-core-non-commercial-3.7.1/jre/lib/ext:/usr/java/packages/lib/ext
+2017-11-09 08:33:28 java.home = /pbtech_mounts/homesD/campagne/rtg-core-non-commercial-3.7.1/jre
+2017-11-09 08:33:28 java.io.tmpdir = /tmp
+2017-11-09 08:33:28 java.library.path = /pbtech_mounts/homesD/campagne/rtg-core-non-commercial-3.7.1
+2017-11-09 08:33:28 java.runtime.name = Java(TM) SE Runtime Environment
+2017-11-09 08:33:28 java.runtime.version = 1.8.0_92-b14
+2017-11-09 08:33:28 java.specification.name = Java Platform API Specification
+2017-11-09 08:33:28 java.specification.vendor = Oracle Corporation
+2017-11-09 08:33:28 java.specification.version = 1.8
+2017-11-09 08:33:28 java.vendor = Oracle Corporation
+2017-11-09 08:33:28 java.vendor.url = http://java.oracle.com/
+2017-11-09 08:33:28 java.vendor.url.bug = http://bugreport.sun.com/bugreport/
+2017-11-09 08:33:28 java.version = 1.8.0_92
+2017-11-09 08:33:28 java.vm.info = mixed mode
+2017-11-09 08:33:28 java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+2017-11-09 08:33:28 java.vm.specification.name = Java Virtual Machine Specification
+2017-11-09 08:33:28 java.vm.specification.vendor = Oracle Corporation
+2017-11-09 08:33:28 java.vm.specification.version = 1.8
+2017-11-09 08:33:28 java.vm.vendor = Oracle Corporation
+2017-11-09 08:33:28 java.vm.version = 25.92-b14
+2017-11-09 08:33:28 lang.version = 1.8.0_92
+2017-11-09 08:33:28 line.separator = 
+
+2017-11-09 08:33:28 models.dir = /pbtech_mounts/homesD/campagne/rtg-core-non-commercial-3.7.1/models
+2017-11-09 08:33:28 os.arch = amd64
+2017-11-09 08:33:28 os.freememory = 78134599680
+2017-11-09 08:33:28 os.name = Linux
+2017-11-09 08:33:28 os.totalmemory = 270189617152
+2017-11-09 08:33:28 os.version = 3.10.0-693.2.2.el7.x86_64
+2017-11-09 08:33:28 path.separator = :
+2017-11-09 08:33:28 processor.arch = amd64
+2017-11-09 08:33:28 processor.count = 72
+2017-11-09 08:33:28 references.dir = /pbtech_mounts/homesD/campagne/rtg-core-non-commercial-3.7.1/references
+2017-11-09 08:33:28 runtime.freememory = 1961623120
+2017-11-09 08:33:28 runtime.maxmemory = 216152408064
+2017-11-09 08:33:28 runtime.totalMemory = 2058354688
+2017-11-09 08:33:28 sun.arch.data.model = 64
+2017-11-09 08:33:28 sun.boot.class.path = /pbtech_mounts/homesD/campagne/rtg-core-non-commercial-3.7.1/jre/lib/resources.jar:/pbtech_mounts/homesD/campagne/rtg-core-non-commercial-3.7.1/jre/lib/rt.jar:/pbtech_mounts/homesD/campagne/rtg-core-non-commercial-3.7.1/jre/lib/sunrsasign.jar:/pbtech_mounts/homesD/campagne/rtg-core-non-commercial-3.7.1/jre/lib/jsse.jar:/pbtech_mounts/homesD/campagne/rtg-core-non-commercial-3.7.1/jre/lib/jce.jar:/pbtech_mounts/homesD/campagne/rtg-core-non-commercial-3.7.1/jre/lib/charsets.jar:/pbtech_mounts/homesD/campagne/rtg-core-non-commercial-3.7.1/jre/lib/jfr.jar:/pbtech_mounts/homesD/campagne/rtg-core-non-commercial-3.7.1/jre/classes
+2017-11-09 08:33:28 sun.boot.library.path = /pbtech_mounts/homesD/campagne/rtg-core-non-commercial-3.7.1/jre/lib/amd64
+2017-11-09 08:33:28 sun.cpu.endian = little
+2017-11-09 08:33:28 sun.cpu.isalist = 
+2017-11-09 08:33:28 sun.io.unicode.encoding = UnicodeLittle
+2017-11-09 08:33:28 sun.java.command = /pbtech_mounts/homesD/campagne/rtg-core-non-commercial-3.7.1/RTG.jar vcfeval --baseline=GOLD-confident-chr-snps.vcf.gz -c 1510204519948-bestscore-NA12878_S1_gatk_realigned_filtered-2017-11-08-test-genotypes-sorted.vcf-snps.vcf.gz -o output-16893/snp --template=../genomes/hg19.sdf --evaluation-regions=GIAB-NA12878-confident-regions-chr.bed.gz --bed-regions=1510204519948-bestscore-NA12878_S1_gatk_realigned_filtered-2017-11-08-test-observed-regions.bed-sorted.bed.gz --vcf-score-field=P --sort-order=descending
+2017-11-09 08:33:28 sun.java.launcher = SUN_STANDARD
+2017-11-09 08:33:28 sun.jnu.encoding = UTF-8
+2017-11-09 08:33:28 sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+2017-11-09 08:33:28 sun.os.patch.level = unknown
+2017-11-09 08:33:28 talkback = true
+2017-11-09 08:33:28 user.country = US
+2017-11-09 08:33:28 user.dir = /scratchLocal/campagne/data/genotypes/nov_8
+2017-11-09 08:33:28 user.home = /home/campagne
+2017-11-09 08:33:28 user.language = en
+2017-11-09 08:33:28 user.name = campagne
+2017-11-09 08:33:28 user.timezone = America/New_York
+2017-11-09 08:33:28 vendor = Oracle Corporation
+2017-11-09 08:33:28 gzipfix.enabled = true
+2017-11-09 08:33:28 Command line arguments: rtg vcfeval --baseline=GOLD-confident-chr-snps.vcf.gz -c 1510204519948-bestscore-NA12878_S1_gatk_realigned_filtered-2017-11-08-test-genotypes-sorted.vcf-snps.vcf.gz -o output-16893/snp --template=../genomes/hg19.sdf --evaluation-regions=GIAB-NA12878-confident-regions-chr.bed.gz --bed-regions=1510204519948-bestscore-NA12878_S1_gatk_realigned_filtered-2017-11-08-test-observed-regions.bed-sorted.bed.gz --vcf-score-field=P --sort-order=descending
+2017-11-09 08:33:28 Run Id: 2cf13809-61e2-43de-b76e-2a7f35d03031
+2017-11-09 08:33:28 Referenced SDF-ID: cf4f3f15-131f-4672-bd3e-89167379effc Type: DNA Sequences: 25 Max-Length: 249250621 Min-Length: 16571 Arm: UNKNOWN
+2017-11-09 08:33:30 Reference sequence chrY is used in calls but not in baseline (variants will be treated as FP).
+2017-11-09 08:33:31 Reference chr20 baseline contains 44450 variants.
+2017-11-09 08:33:31 Reference chr20 calls contains 49785 variants.
+2017-11-09 08:33:31 Reference chr21 baseline contains 44659 variants.
+2017-11-09 08:33:31 Reference chr21 calls contains 50955 variants.
+2017-11-09 08:33:32 Reference chr22 baseline contains 37209 variants.
+2017-11-09 08:33:32 Reference chr22 calls contains 44522 variants.
+2017-11-09 08:33:32 Reference chr20 had maximum path complexity of 133 at chr20:55114180-55114805
+2017-11-09 08:33:33 Reference chr21 had maximum path complexity of 133 at chr21:45368299-45368490
+2017-11-09 08:33:33 Reference chr22 had maximum path complexity of 133 at chr22:33148574-33148918
+2017-11-09 08:33:34 Reference chrX baseline contains 81587 variants.
+2017-11-09 08:33:34 Reference chrX calls contains 88079 variants.
+2017-11-09 08:33:34 Reference chrY baseline contains 0 variants.
+2017-11-09 08:33:34 Reference chrY calls contains 193 variants.
+2017-11-09 08:33:36 Reference chrX had maximum path complexity of 31 at chrX:5389788-5390241
+2017-11-09 08:33:39 Threshold  True-pos-baseline  True-pos-call  False-pos  False-neg  Precision  Sensitivity  F-measure
+----------------------------------------------------------------------------------------------------
+    0.565             205446         205446         95         81     0.9995       0.9996     0.9996
+     None             205446         205446         95         81     0.9995       0.9996     0.9996
+
+2017-11-09 08:33:39 Finished successfully in 10 s.
